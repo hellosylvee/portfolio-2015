@@ -1,0 +1,30 @@
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) {
+  h1 {
+    color: #ffffff;
+    position: relative;
+    text-align: center;
+    margin: auto;
+    bottom: 200px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 8em;
+    text-transform: uppercase;
+
+  .main-photo-adjust {
+    height: 250px;
+  }
+}
+
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { ... }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+
+}

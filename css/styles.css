@@ -1,0 +1,249 @@
+body {
+	margin: auto;
+	max-width: 1280px;
+}
+/******************** ROWS & COLUMNS ********************/
+.row {
+	text-align: center;
+}
+
+/*.col-md-1 {
+	border: solid red 1px;
+}
+
+.col-md-3 {
+	border: dotted purple 2px;
+}
+
+.col-md-4 {
+	border: solid orange 1px;
+}
+
+.col-md-6 {
+	border: solid blue 1px;
+}
+
+.col-md-8 {
+	border: solid red 1px;
+}*/
+
+.col-md-12 {
+	padding: 0px;
+}
+
+/******************** MAIN SELECTORS ********************/
+img {
+	width: 100%;
+	max-width: 1280px;
+	height: auto;
+}
+
+.container-fluid {
+	text-align: center;
+}
+
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav a, .navbar-brand {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+
+/******************** FOOTER & SOCIAL ICONS ********************/
+.social-icons-block {
+	background-color: #212121;
+	opacity: 0.95;
+	height: 100px;
+	padding-top: 30px;
+}
+
+.social-link {
+	padding: 0px 20px;
+}
+
+.navbar {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+/******************** LINK STATES ********************/
+a :visited {
+	text-decoration: none;
+}
+
+a :hover {
+	text-decoration: none;
+}
+
+.link-to-projects {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	font-size: 1.5em;
+	margin: 50px;
+}
+
+.link-to-projects-margin {
+	margin-top: 100px;
+}
+
+/******************** BACKGROUND IMAGES & PATTERNS ********************/
+.main-photo-adjust {
+	/*height: 650px;*/
+}
+
+.height-adjust {
+	padding: 100px;
+}
+
+.bg-silhouette_photo {
+	background-image: url("../img/silhouette.png");
+	padding: 50px 0;
+}
+
+.bg-geometric_photo {
+	background-image: url("../img/geometric.png");
+	padding: 100px;
+}
+
+/******************** HEADINGS ********************/
+/*h1 {
+	color: #212121;
+	position: relative;
+	text-align: center;
+	margin: 0px auto;
+	margin-top: 40px;
+	bottom: 325px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	font-size: 10em;
+	text-transform: uppercase;
+	border: solid green 2px;
+	z-index: 20;
+}*/
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	font-size: 1.5em;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.highlight {
+	color: #ffffff;
+}
+
+h3 {
+	color: #757575;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+}
+
+h4 {
+	color: #212121;
+	font-size: 1.5em;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+}
+
+.color-white {
+	color: #ffffff;
+}
+
+h5 {
+	font-size: 1.2em;
+	color: #212121;
+}
+
+p {
+	font-size: 1em;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	line-height: 1.5em;
+}
+
+/******************** DESCRIPTIONS ********************/
+.job-main-description, .main-description {
+	width: 80%;
+  margin: 0px auto 50px auto;
+	/*margin: 10px 20px;*/
+	font-size: 1.5em;
+	text-align: left;
+}
+
+.job-main-description {
+	text-align: center;
+}
+
+.process-block {
+	margin: 30px;
+}
+
+.process-block-wrap {          /**wraps title, icon, and description**/
+	margin: 10px;
+	padding: 20px;
+	min-height: 300px;
+	background-color: #212121;
+	opacity: .95;
+}
+
+.process-block-description {
+	font-size: 1.4em;
+	color: #ffffff;
+}
+
+/******************** FONT AWESOME ********************/
+.fa-margin-adjust {
+	margin: 20px 0;
+}
+
+.fa {
+	color: #ffffff;
+}
+
+/******************** WORK PAGE ********************/
+.push-down {
+	margin: 50px 0px 50px 0px;
+}
+
+.work-row-margin-adjust {
+	margin: 50px 10px 100px 10px;
+}
+
+.main-work-description {
+	font-size: 1.4em;
+}
+
+.skills-group {
+	list-style-type: none;
+}
+
+.skill-type {
+	font-size: .8em;
+	font-style: 'Source Sans Pro';
+  font-weight: 600;
+  text-transform: uppercase;
+	margin: 4px;
+	padding: 8px;
+	display: inline-block;
+	border: solid orange 2px;
+	border-radius: 8px;
+}
+
+/******************** ABOUT PAGE ********************/
+.width-adjust {
+	width: 80%;
+	margin: 20px auto 50px auto;
+}
+
+.width-adjust-photo {
+	width: 60%;
+	margin: 100px auto 50px auto;
+}
