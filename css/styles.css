@@ -183,13 +183,17 @@ p {
 }
 
 .process-block {
-	margin: 30px;
+	margin: 5px;
+}
+
+.process__block {
+	padding: 0px;
 }
 
 .process-block-wrap {          /**wraps title, icon, and description**/
 	margin: 10px;
 	padding: 20px;
-	min-height: 300px;
+	min-height: 380px;
 	background-color: #212121;
 	opacity: .95;
 }
@@ -233,11 +237,16 @@ p {
 	margin: 4px;
 	padding: 8px;
 	display: inline-block;
-	border: solid orange 2px;
+	color: #575757;
+	border: solid #4099FF 2px;
 	border-radius: 8px;
 }
 
 /******************** ABOUT PAGE ********************/
+.about-img {
+	width: 60%;
+}
+
 .width-adjust {
 	width: 80%;
 	margin: 20px auto 50px auto;
