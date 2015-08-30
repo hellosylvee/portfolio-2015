@@ -182,16 +182,16 @@ p {
 	text-align: center;
 }
 
-.process-block {
-	margin: 5px;
+.process__block {
+	margin: 0px;
+	opacity: .8;
 }
 
-.process__block {
-	padding: 0px;
+.process__block:hover {
+	opacity: 1;
 }
 
 .process-block-wrap {          /**wraps title, icon, and description**/
-	margin: 10px;
 	padding: 20px;
 	min-height: 380px;
 	background-color: #212121;
@@ -203,6 +203,11 @@ p {
 	color: #ffffff;
 }
 
+.viewipad-img {
+	opacity: .5;
+	position: relative;
+	left: 300px;
+}
 /******************** FONT AWESOME ********************/
 .fa-margin-adjust {
 	margin: 20px 0;
@@ -219,6 +224,19 @@ p {
 
 .work-row-margin-adjust {
 	margin: 50px 10px 100px 10px;
+}
+
+.work-img {
+  opacity: .5;
+  position: relative;
+  right: 300px;
+}
+
+.work-descrip {
+	opacity: .1;
+	position: relative;
+	left: 300px;
+	border: solid black 1px;
 }
 
 .main-work-description {
