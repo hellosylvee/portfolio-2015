@@ -5,13 +5,9 @@ $(".row").mouseenter(function(){
     }, 1500);
 });
 
-$(".link-to-projects-margin, .link-to-projects").mouseenter(function(){
+$(".work-block, .work-link").mouseenter(function(){
   $(".viewipad-img").animate({
-    left: "-100px", 
+    left: "-100px",
     opacity: 1,
   }, 1500);
 });
-
-
-
-console.log("This better work! You can do it!");

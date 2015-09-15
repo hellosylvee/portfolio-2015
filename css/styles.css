@@ -2,54 +2,21 @@ body {
 	margin: auto;
 	max-width: 1280px;
 }
+
 /******************** ROWS & COLUMNS ********************/
-.row {
-	text-align: center;
-}
-
-/*.col-md-1 {
-	border: solid red 1px;
-}
-
-.col-md-3 {
-	border: dotted purple 2px;
-}
-
-.col-md-4 {
-	border: solid orange 1px;
-}
-
-.col-md-6 {
-	border: solid blue 1px;
-}
-
-.col-md-8 {
-	border: solid red 1px;
-}*/
-
 .col-md-12 {
 	padding: 0px;
 }
 
 /******************** NAME TITLE ********************/
-.name-title {
+.nametitle {
 	text-align: center;
-	padding: 100px 0px;
+	padding: 100px 0px 20px;
 	background-color: #9EC5B9;
 	color: #ffffff;
 }
 
-h1 {
-	font-size: 15em;
-	font-family: 'Wire One', sans-serif;
-	font-weight: 400;
-}
-
-h6 {
-	font-size: 5em;
-	font-family: 'Wire One', sans-serif;
-	font-weight: 400;
-	margin-top: 40px;
+.nametitle__highlight {
 	color: #ffffff;
 	opacity: .75;
 }
@@ -80,13 +47,13 @@ img {
 
 /******************** FOOTER & SOCIAL ICONS ********************/
 .social-icons-block {
-	background-color: #212121;
-	opacity: 0.95;
+	background-color: #9EC5B9;
 	height: 100px;
-	padding-top: 30px;
+	padding: 30px;
 }
 
 .social-link {
+	color: #ffffff;
 	padding: 0px 20px;
 }
 
@@ -104,51 +71,27 @@ a :hover {
 	text-decoration: none;
 }
 
-.link-to-projects {
-	font-family: 'Source Sans Pro', sans-serif;
-	font-weight: 300;
-	font-size: 1.5em;
-	margin: 50px;
-}
-
-.link-to-projects-margin {
-	margin-top: 100px;
-}
-
-/******************** BACKGROUND IMAGES & PATTERNS ********************/
-.height-adjust {
-	padding: 100px;
-}
-
 /******************** HEADINGS ********************/
+h1 {
+	font-size: 15em;
+	font-family: 'Wire One', sans-serif;
+	font-weight: 400;
+}
+
 h2 {
+	font-size: 5em;
+	font-family: 'Wire One', sans-serif;
+	font-weight: 400;
+	margin-top: 40px;
+	color: #ffffff;
+	opacity: .75;
+}
+
+h3 {
 	font-family: 'Lato', sans-serif;
 	font-size: 1.5em;
 	font-weight: 600;
 	text-transform: uppercase;
-}
-
-.highlight {
-	color: #ffffff;
-}
-
-h3 {
-	color: #757575;
-	font-size: 1.5em;
-	text-transform: uppercase;
-	font-family: 'Source Sans Pro', sans-serif;
-	font-weight: 300;
-}
-
-h4 {
-	color: #212121;
-	font-size: 1.5em;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 600;
-}
-
-.color-white {
-	color: #ffffff;
 }
 
 h5 {
@@ -156,45 +99,70 @@ h5 {
 	color: #212121;
 }
 
-p {
-	font-size: 1em;
+h6 {
+	color: #757575;
 	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1.5em;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1em;
 	font-weight: 300;
 	line-height: 1.5em;
 }
 
 /******************** DESCRIPTIONS ********************/
-.job-main-description, .main-description {
-	width: 80%;
-  margin: 0px auto 50px auto;
-	/*margin: 10px 20px;*/
+.what-description {
 	font-size: 1.5em;
-	text-align: left;
 }
 
-.job-main-description {
-	text-align: center;
+.what-block {
+	padding: 60px 0px;
+	width: 50%;
+	margin: auto;
 }
 
-.process__block {
-	margin: 0px;
-	opacity: .8;
+.how-block {
+	padding: 30px;
+	border-top: solid #eaeaea 1px;
+	border-bottom: solid #eaeaea 1px;
 }
 
-.process__block:hover {
+.process-block {
+	min-height: 350px;
+	border: solid white 5px;
+	padding: 20px 15px;
+	background-color: #9EC5B9;
+	color: #ffffff;
+	opacity: .50;
+}
+
+.process-block:hover {
 	opacity: 1;
 }
 
-.process-block-wrap {          /**wraps title, icon, and description**/
-	padding: 10px 25px;
-	min-height: 380px;
-	background-color: #9EC5B9;
-	opacity: .95;
+h4 {
+	font-size: 1.5em;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
 }
 
-.process-block-description {
+.process-block-content {
 	font-size: 1.4em;
-	color: #ffffff;
+}
+
+.work-block {
+	margin-top: 100px;
+}
+
+.work-link {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	font-size: 1.4em;
+	margin: 50px;
 }
 
 .viewipad-img {
@@ -202,14 +170,7 @@ p {
 	position: relative;
 	left: 300px;
 }
-/******************** FONT AWESOME ********************/
-.fa-margin-adjust {
-	margin: 20px 0;
-}
 
-.fa {
-	color: #ffffff;
-}
 
 /******************** WORK PAGE ********************/
 .push-down {
