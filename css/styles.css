@@ -31,6 +31,29 @@ body {
 	padding: 0px;
 }
 
+/******************** NAME TITLE ********************/
+.name-title {
+	text-align: center;
+	padding: 100px 0px;
+	background-color: #9EC5B9;
+	color: #ffffff;
+}
+
+h1 {
+	font-size: 15em;
+	font-family: 'Wire One', sans-serif;
+	font-weight: 400;
+}
+
+h6 {
+	font-size: 5em;
+	font-family: 'Wire One', sans-serif;
+	font-weight: 400;
+	margin-top: 40px;
+	color: #ffffff;
+	opacity: .75;
+}
+
 /******************** MAIN SELECTORS ********************/
 img {
 	width: 100%;
@@ -93,40 +116,11 @@ a :hover {
 }
 
 /******************** BACKGROUND IMAGES & PATTERNS ********************/
-.main-photo-adjust {
-	/*height: 650px;*/
-}
-
 .height-adjust {
 	padding: 100px;
 }
 
-.bg-silhouette_photo {
-	background-image: url("../img/silhouette.png");
-	padding: 50px 0;
-}
-
-.bg-geometric_photo {
-	background-image: url("../img/geometric.png");
-	padding: 100px;
-}
-
 /******************** HEADINGS ********************/
-/*h1 {
-	color: #212121;
-	position: relative;
-	text-align: center;
-	margin: 0px auto;
-	margin-top: 40px;
-	bottom: 325px;
-	font-family: 'Lato', sans-serif;
-	font-weight: 700;
-	font-size: 10em;
-	text-transform: uppercase;
-	border: solid green 2px;
-	z-index: 20;
-}*/
-
 h2 {
 	font-family: 'Lato', sans-serif;
 	font-size: 1.5em;
@@ -192,9 +186,9 @@ p {
 }
 
 .process-block-wrap {          /**wraps title, icon, and description**/
-	padding: 20px;
+	padding: 10px 25px;
 	min-height: 380px;
-	background-color: #212121;
+	background-color: #9EC5B9;
 	opacity: .95;
 }
 
