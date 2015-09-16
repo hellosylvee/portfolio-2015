@@ -1,37 +1,39 @@
 body {
   max-width: 1024px;
 }
-.row-margin-adjust {
-	margin: 20px auto;
+
+p {
+  font-size: 1.3em;
 }
 
-/*h2 {
-	margin-top: 20px;
+li {
+  list-style-type: none;
+  text-align: left;
+}
+
+.resume-block-title {
+  margin-top: 80px;
+}
+
+.resume-time {
+  color: #505050;
+  position: relative;
+  left: 10px;
+}
+
+/*.resume-block-info {
+  margin-top: 40px;
 }*/
 
-.summary-description, .experience-description {
-	font-size: 1.5em;
-	font-family: 'Source Sans Pro', sans-serif;
-	line-height: 1.6em;
-	padding: 0px 80px;
+.skills-block {
+  width: 80%;
+  margin: auto;
+}
+.skill-title {
+  font-size: 1.3em;
+  font-weight: 400;
 }
 
-.row-margin-adjust {
-	margin: 50px 0px;
-}
-
-ul {
-  list-style-type: none;
-}
-
-li.skill-title {
-  font-size: 1.5em;
-  font-family: 'Source Sans Pro', sans-serif;
-  text-transform: uppercase;
-}
-
-.list-adjust {
-  margin-bottom: 40px;
-  font-size: 1.5em;
-  font-family: 'Source Sans Pro', sans-serif;
+.skill-container {
+  background-color: #9EC5B9;
 }
