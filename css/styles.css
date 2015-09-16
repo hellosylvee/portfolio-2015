@@ -88,6 +88,7 @@ h2 {
 }
 
 h3 {
+	color: #575757;
 	font-family: 'Lato', sans-serif;
 	font-size: 1.5em;
 	font-weight: 600;
@@ -137,11 +138,6 @@ p {
 	padding: 20px 15px;
 	background-color: #9EC5B9;
 	color: #ffffff;
-	opacity: .50;
-}
-
-.process-block:hover {
-	opacity: 1;
 }
 
 h4 {
@@ -173,10 +169,6 @@ h4 {
 
 
 /******************** WORK PAGE ********************/
-.push-down {
-	margin: 50px 0px 50px 0px;
-}
-
 .work-row-margin-adjust {
 	margin: 50px 10px 100px 10px;
 }
