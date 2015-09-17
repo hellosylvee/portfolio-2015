@@ -23,7 +23,7 @@ body {
 .nametitle {
 	text-align: center;
 	padding: 100px 0px 20px;
-	background-color: #9EC5B9;
+	background-color: #02779E;
 	color: #ffffff;
 }
 
@@ -58,7 +58,7 @@ img {
 
 /******************** FOOTER & SOCIAL ICONS ********************/
 .social-icons-block {
-	background-color: #9EC5B9;
+	background-color: #02779E;
 	height: 100px;
 	padding: 30px;
 }
@@ -155,7 +155,7 @@ p {
 	min-height: 350px;
 	border: solid white 5px;
 	padding: 20px 15px;
-	background-color: #9EC5B9;
+	background-color: #02779E;
 	color: #ffffff;
 }
 
@@ -188,25 +188,37 @@ h4 {
 
 
 /******************** WORK PAGE ********************/
-.work-row-margin-adjust {
-	margin: 50px 10px 100px 10px;
+.work-container {
+	margin-top: 100px;
+}
+
+.work-description {
+	padding: 40px;
 }
 
 .work-img {
   opacity: .5;
   position: relative;
   right: 300px;
+	width: 75%;
+	margin-top: 40px;
 }
 
-.work-descrip {
+/*.work-descrip {
 	opacity: .1;
 	position: relative;
 	left: 300px;
 	border: solid black 1px;
+}*/
+
+p {
+	font-size: 1.3em;
 }
 
-.main-work-description {
-	font-size: 1.4em;
+.title-highlight {
+	color: #02779E;
+	position: relative;
+	left: 15px;
 }
 
 .skills-group {
@@ -221,8 +233,8 @@ h4 {
 	margin: 4px;
 	padding: 8px;
 	display: inline-block;
-	color: #575757;
-	border: solid #4099FF 2px;
+	color: #02779E;
+	border: solid #02779E 2px;
 	border-radius: 8px;
 }
 
