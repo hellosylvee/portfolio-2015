@@ -5,9 +5,9 @@ $(".row").mouseenter(function(){
     }, 1500);
 });
 
-$(".work-block, .work-link").mouseenter(function(){
-  $(".viewipad-img").animate({
-    left: "-100px",
-    opacity: 1,
-  }, 1500);
-});
+// $(".work-block, .work-link").mouseenter(function(){
+//   $(".viewipad-img").animate({
+//     left: "-100px",
+//     opacity: 1,
+//   }, 1500);
+// });
