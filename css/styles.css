@@ -55,6 +55,9 @@ img {
 	text-transform: uppercase;
 }
 
+.project-row {
+	margin-bottom: 100px;
+}
 
 /******************** FOOTER & SOCIAL ICONS ********************/
 .social-icons-block {
@@ -186,6 +189,7 @@ h4 {
   right: 300px;
 	width: 75%;
 	margin-top: 40px;
+	display: none;
 }
 
 /*.work-descrip {
