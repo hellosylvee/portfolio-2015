@@ -31,3 +31,7 @@ a:hover {
 	padding: 60px;
 	color: #ffffff;
 }
+
+.img-resize {
+	width: 50%;
+}
