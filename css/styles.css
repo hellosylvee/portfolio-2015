@@ -1,6 +1,5 @@
 body {
 	margin: auto;
-	max-width: 1280px;
 	height: 100%;
 	min-height: 100%;
 }
@@ -12,6 +11,11 @@ body {
 
 .col-md-6 {
 	padding: 0px;
+}
+
+.row {
+	max-width: 100em;
+	margin: auto;
 }
 
 .row-about {
@@ -69,6 +73,10 @@ img {
 .social-link {
 	color: #ffffff;
 	padding: 0px 10px;
+}
+
+.social-bar {
+	padding: 0px;
 }
 
 .navbar {
