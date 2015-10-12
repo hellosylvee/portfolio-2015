@@ -4,10 +4,21 @@ $(".row").mouseenter(function(){
 });
 
 $(".row").mouseenter(function(){
+  $(".work-description", this).show( "fast", function() {
+  });
+});
+
+$(".row").mouseenter(function(){
+  $(".work-description", this).animate({
+    opacity: 1,
+  }, 100);
+});
+
+$(".row").mouseenter(function(){
   $(".work-img", this).animate({
     right: "-10px",
     opacity: 1,
-    }, 1500);
+  }, 1000);
 });
 
 // $(".work-block, .work-link").mouseenter(function(){
