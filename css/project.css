@@ -2,36 +2,63 @@ html, body {
 	height: 100%;
 }
 
-.project-container {
-	margin: 40px 0px;
+a:hover {
+	color: #ffffff;
+	text-decoration: none;
 }
 
+.project-container {
+	margin: 60px auto;
+	width: 75%;
+}
+
+/********** LINKS & BUTTONS **********/
 .link-previous-page {
 	margin-top: 51px;
-	padding: 15px;
+	padding: 25px;
 	background-color: #4099FF;
 	text-align: center;
+	margin-bottom: 0px;
 }
 
 .link-previous-page a {
 	color: #ffffff;
 }
 
-a:hover {
-	color: #ffffff;
-	text-decoration: none;
+.project-back-btn {
+	float: left;
+	padding-left: 50px;
+	position: relative;
+	bottom: 10px;
+}
+
+.next-project-btn {
+	float: right;
+	padding-right: 50px;
+	position: relative;
+	bottom: 10px;
+}
+
+/********** WORK DESCRIPTIONS AND PHOTOS **********/
+
+.img-resize {
+	width: 60%;
+}
+
+.img-phase {
+	border: solid #D0D0D0 2px;
+	border-radius: 10px;
 }
 
 .work-description-info {
 	padding: 30px;
+	margin-bottom: 100px;
 }
 
-.work-description-block {
-	background-color: #02779E;
-	padding: 60px;
-	color: #ffffff;
+.work-description-detailed {
+	text-align: left;
 }
 
-.img-resize {
-	width: 50%;
+.social-link {
+	color: #575757;
 }

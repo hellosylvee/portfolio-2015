@@ -21,9 +21,10 @@ $(".row").mouseenter(function(){
   }, 1000);
 });
 
-// $(".work-block, .work-link").mouseenter(function(){
-//   $(".viewipad-img").animate({
-//     left: "-100px",
-//     opacity: 1,
-//   }, 1500);
+// $('img').load(function() {
+//     $(this).data('height', this.height);
+// }).bind('mouseenter mouseleave', function(e) {
+//     $(this).stop().animate({
+//         height: $(this).data('height') * (e.type === 'mouseenter' ? 1.5 : 1)
+//     });
 // });

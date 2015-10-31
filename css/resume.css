@@ -2,6 +2,22 @@ body {
   max-width: 1024px;
 }
 
+h6 {
+  font-size: 2em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #02779E;
+}
+
+h3 a {
+  color: #02779E;
+}
+
+h3 a:hover {
+  text-decoration: none;
+}
+
 p {
   font-size: 1.3em;
 }
@@ -11,8 +27,19 @@ li {
   text-align: left;
 }
 
+.row {
+  margin-bottom: 60px;
+}
+
+.current-job {
+  border-bottom: solid #eaeaea 1px;
+  padding-bottom: 60px;
+}
+
 .resume-block-title {
-  margin-top: 80px;
+  margin-top: 100px;
+  margin-bottom: 40px;
+  padding: 10px;
 }
 
 .resume-time {
@@ -21,19 +48,44 @@ li {
   left: 10px;
 }
 
-/*.resume-block-info {
+.resume-block-info {
   margin-top: 40px;
-}*/
+}
+
+.resume-experience-description {
+  padding: 0 60px;
+  text-align: left;
+}
 
 .skills-block {
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
+
 .skill-title {
-  font-size: 1.3em;
+  font-size: 1.4em;
   font-weight: 400;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  color: #02779E;
 }
 
 .skill-container {
-  background-color: #9EC5B9;
+}
+
+img {
+  width: 100%;
+}
+
+.img-uxdc {
+  width: 60%;
+}
+
+.img-sethmoulton {
+  width: 80%;
+}
+
+.img-kafsc, .img-wanderant {
+  margin-top: 30px;
+  width: 85%;
 }
