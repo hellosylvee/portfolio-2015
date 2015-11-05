@@ -325,35 +325,46 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/uxdc-asset-blog.jpg": {
+	"\/img\/uxdc\/uxdc-asset-blog.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 500122,
-		"inputAbbreviatedPath": "\/img\/uxdc-asset-blog.jpg",
-		"outputAbbreviatedPath": "\/img\/uxdc-asset-blog.jpg",
+		"inputAbbreviatedPath": "\/img\/uxdc\/uxdc-asset-blog.jpg",
+		"outputAbbreviatedPath": "\/img\/uxdc\/uxdc-asset-blog.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/uxdc-asset-presskit.jpg": {
+	"\/img\/uxdc\/uxdc-asset-presskit.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 600979,
-		"inputAbbreviatedPath": "\/img\/uxdc-asset-presskit.jpg",
-		"outputAbbreviatedPath": "\/img\/uxdc-asset-presskit.jpg",
+		"inputAbbreviatedPath": "\/img\/uxdc\/uxdc-asset-presskit.jpg",
+		"outputAbbreviatedPath": "\/img\/uxdc\/uxdc-asset-presskit.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/uxdc-asset-slide.jpg": {
+	"\/img\/uxdc\/uxdc-asset-slide.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 246483,
-		"inputAbbreviatedPath": "\/img\/uxdc-asset-slide.jpg",
-		"outputAbbreviatedPath": "\/img\/uxdc-asset-slide.jpg",
+		"inputAbbreviatedPath": "\/img\/uxdc\/uxdc-asset-slide.jpg",
+		"outputAbbreviatedPath": "\/img\/uxdc\/uxdc-asset-slide.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/uxdc\/uxdc-interview.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.23903e+06,
+		"inputAbbreviatedPath": "\/img\/uxdc\/uxdc-interview.png",
+		"outputAbbreviatedPath": "\/img\/uxdc\/uxdc-interview.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
