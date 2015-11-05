@@ -512,17 +512,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/webhost\/bsu-ver2-detailed-confirmation.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 636098,
-		"inputAbbreviatedPath": "\/img\/webhost\/bsu-ver2-detailed-confirmation.jpg",
-		"outputAbbreviatedPath": "\/img\/webhost\/bsu-ver2-detailed-confirmation.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/webhost\/bsu-ver2-detailed-editform.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -545,24 +534,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/webhost\/Screen Shot 2015-11-04 at 10.27.34 PM.png": {
+	"\/img\/webhost\/bsu-workflow.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 67820,
-		"inputAbbreviatedPath": "\/img\/webhost\/Screen Shot 2015-11-04 at 10.27.34 PM.png",
-		"outputAbbreviatedPath": "\/img\/webhost\/Screen Shot 2015-11-04 at 10.27.34 PM.png",
+		"inputAbbreviatedPath": "\/img\/webhost\/bsu-workflow.png",
+		"outputAbbreviatedPath": "\/img\/webhost\/bsu-workflow.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/webhost\/Screen Shot 2015-11-04 at 10.27.43 PM.png": {
+	"\/img\/webhost\/bsu-workflow2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 72006,
-		"inputAbbreviatedPath": "\/img\/webhost\/Screen Shot 2015-11-04 at 10.27.43 PM.png",
-		"outputAbbreviatedPath": "\/img\/webhost\/Screen Shot 2015-11-04 at 10.27.43 PM.png",
+		"inputAbbreviatedPath": "\/img\/webhost\/bsu-workflow2.png",
+		"outputAbbreviatedPath": "\/img\/webhost\/bsu-workflow2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -578,13 +567,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/webhost\/webhost-designstudio.jpg": {
-		"fileType": 16384,
+	"\/img\/webhost\/webhost-businessresearch.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 313942,
-		"inputAbbreviatedPath": "\/img\/webhost\/webhost-designstudio.jpg",
-		"outputAbbreviatedPath": "\/img\/webhost\/webhost-designstudio.jpg",
+		"initialSize": 237582,
+		"inputAbbreviatedPath": "\/img\/webhost\/webhost-businessresearch.png",
+		"outputAbbreviatedPath": "\/img\/webhost\/webhost-businessresearch.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -607,6 +596,39 @@
 		"initialSize": 649547,
 		"inputAbbreviatedPath": "\/img\/webhost\/webhost-final.jpg",
 		"outputAbbreviatedPath": "\/img\/webhost\/webhost-final.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/webhost\/webhost-screenflow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101744,
+		"inputAbbreviatedPath": "\/img\/webhost\/webhost-screenflow.png",
+		"outputAbbreviatedPath": "\/img\/webhost\/webhost-screenflow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/webhost\/webhost-solutions.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165398,
+		"inputAbbreviatedPath": "\/img\/webhost\/webhost-solutions.png",
+		"outputAbbreviatedPath": "\/img\/webhost\/webhost-solutions.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/webhost\/webhost-survey.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163093,
+		"inputAbbreviatedPath": "\/img\/webhost\/webhost-survey.png",
+		"outputAbbreviatedPath": "\/img\/webhost\/webhost-survey.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
