@@ -402,6 +402,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/mobile\/mobile-research.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 567379,
+		"inputAbbreviatedPath": "\/img\/mobile\/mobile-research.png",
+		"outputAbbreviatedPath": "\/img\/mobile\/mobile-research.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/mobile\/mobile-sketch.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
