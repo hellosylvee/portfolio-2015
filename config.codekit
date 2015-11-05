@@ -127,6 +127,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/desktop\/desktop-discovery.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 266253,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-discovery.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-discovery.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/desktop\/desktop-launchpoints.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60647,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-launchpoints.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-launchpoints.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/desktop\/desktop-listview.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 307603,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-listview.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-listview.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/desktop\/desktop-mainideas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88538,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-mainideas.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-mainideas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/desktop\/desktop-personas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206153,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-personas.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-personas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/desktop\/desktop-screen1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-screen1.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-screen1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/desktop\/desktop-screen2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-screen2.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-screen2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/desktop\/desktop-screen3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-screen3.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-screen3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/desktop\/desktop-screen4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-screen4.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-screen4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/desktop\/desktop-workflow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/desktop\/desktop-workflow.png",
+		"outputAbbreviatedPath": "\/img\/desktop\/desktop-workflow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logo-ga.png": {
 		"fileType": 32768,
 		"ignore": 0,
