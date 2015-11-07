@@ -1,33 +1,73 @@
 /* Large desktops and laptops */
 @media (min-width: 1200px) {
-
-}
+/*  body {background-color: red;}
+}*/
 
 /* Landscape tablets and medium desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
-
-}
+/*  body {background-color: blue;}
+}*/
 
 /* Portrait tablets and small desktops */
 @media (min-width: 768px) and (max-width: 991px) {
-
+/*  body {
+    background-color: yellow;
+  }*/
+  .resume-logo {
+    width: 50%;
+  }
+  
 }
 
 /* Landscape phones and portrait tablets */
 @media (max-width: 767px) {
-
+ /* body {
+    background-color: orange;
+  }*/
+  .resume-logo {
+    width: 50%;
+  }
+  .resume-experience-description {
+  padding: 0 20px;
+  }
 }
 
 /* Portrait phones and smaller */
 @media (max-width: 480px) {
-  body {
+/*  body {
+    background-color: purple;
+  }*/
+  .project-container {
+    width: 100%;
+    padding: none;
+  }
+  .project-back-btn {
+    text-align: center;
   }
 
+/*index page*/  
   .social-link {
     font-size: .75em;
   }
 
   .viewipad-img {
     width: 100%;
+  }
+
+/*about page*/
+  .about-img {
+    width: 90%;
+  }
+
+  .row-about {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .resume-logo {
+    width: 100%;
+  }
+  .resume-experience-description {
+  padding: 0 20px;
   }
 }
