@@ -15,7 +15,65 @@ a:hover {
 p {
 	text-align: left;
 	margin: auto;
+	font-size: 1.2em;
 }
+
+.col-md-6 {
+	padding: 0px 50px;
+	clearfix: both;
+}
+/******************** WORK PAGE ********************/
+
+.project-row__description {
+	margin-bottom: 100px;
+}
+
+.main-content {
+	margin-top: 200px;
+}
+
+.main-photo {
+	margin-top: 50px;
+}
+.work-container {
+	margin-top: 60px;
+}
+
+.work-description {
+	padding: 40px;
+}
+
+.work-img {
+  /*opacity: .5;*/
+  position: relative;
+  /*right: 300px;*/
+	width: 90%;
+	/*display: none;*/
+}
+
+.title-highlight {
+	color: #02779E;
+	position: relative;
+	left: 15px;
+}
+
+.skills-group {
+	list-style-type: none;
+}
+
+.skill-type {
+	font-size: .75em;
+	font-style: 'Source Sans Pro';
+  font-weight: 400;
+  text-transform: uppercase;
+	margin: 4px;
+	padding: 5px;
+	display: inline-block;
+	color: #02779E;
+	border: solid #02779E 1px;
+	border-radius: 8px;
+}
+
 
 /********** LINKS & BUTTONS **********/
 .link-previous-page {

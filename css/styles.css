@@ -59,10 +59,6 @@ img {
 	text-transform: uppercase;
 }
 
-.project-row {
-	margin-bottom: 100px;
-}
-
 /******************** FOOTER & SOCIAL ICONS ********************/
 .social-icons-block {
 	background-color: #02779E;
@@ -148,7 +144,7 @@ p {
 
 .process-block {
 	margin-top: 40px;
-	min-height: 350px;
+	min-height: 380px;
 	border: solid white 5px;
 	padding: 20px 15px;
 	background-color: #02779E;
@@ -178,52 +174,6 @@ h4 {
 .viewipad-img {
 	margin-top: 50px;
 	width: 50%;
-}
-
-
-/******************** WORK PAGE ********************/
-.work-container {
-	margin-top: 100px;
-}
-
-.work-description {
-	padding: 40px;
-}
-
-.work-img {
-  opacity: .5;
-  position: relative;
-  right: 300px;
-	width: 75%;
-	margin-top: 40px;
-	display: none;
-}
-
-.work-description {
-	opacity: .5;
-}
-
-.title-highlight {
-	color: #02779E;
-	position: relative;
-	left: 15px;
-}
-
-.skills-group {
-	list-style-type: none;
-}
-
-.skill-type {
-	font-size: .8em;
-	font-style: 'Source Sans Pro';
-  font-weight: 600;
-  text-transform: uppercase;
-	margin: 4px;
-	padding: 8px;
-	display: inline-block;
-	color: #02779E;
-	border: solid #02779E 2px;
-	border-radius: 8px;
 }
 
 /******************** ABOUT PAGE ********************/

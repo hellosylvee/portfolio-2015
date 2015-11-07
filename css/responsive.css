@@ -21,7 +21,6 @@
 /* Portrait phones and smaller */
 @media (max-width: 480px) {
   body {
-    background: red;
   }
 
   h3 {
