@@ -23,7 +23,11 @@
   body {
   }
 
-  h3 {
-    font-size: 21em;
+  .social-link {
+    font-size: .75em;
+  }
+
+  .viewipad-img {
+    width: 100%;
   }
 }
