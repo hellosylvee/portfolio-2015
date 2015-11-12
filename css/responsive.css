@@ -16,7 +16,6 @@
   .resume-logo {
     width: 50%;
   }
-  
 }
 
 /* Landscape phones and portrait tablets */
@@ -34,9 +33,9 @@
 
 /* Portrait phones and smaller */
 @media (max-width: 480px) {
-/*  body {
+  body {
     background-color: purple;
-  }*/
+  }
   .project-container {
     width: 100%;
     padding: none;
@@ -45,7 +44,9 @@
     text-align: center;
   }
 
-/*index page*/  
+/*project page*/
+
+/*index page*/
   .social-link {
     font-size: .75em;
   }

@@ -22,14 +22,22 @@ p {
 	padding: 0px 50px;
 	clearfix: both;
 }
+
+img {
+	margin-bottom: 30px;
+}
 /******************** WORK PAGE ********************/
+.project-row__title {
+	margin-bottom: 30px;
+}
 
 .project-row__description {
-	margin-bottom: 100px;
+	margin: 0px 0px 100px 0px;
+	padding: 0 30px;
 }
 
 .main-content {
-	margin-top: 200px;
+	margin-top: 100px;
 }
 
 .main-photo {
