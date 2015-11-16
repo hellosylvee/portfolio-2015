@@ -98,14 +98,12 @@ img {
 
 .project-back-btn {
 	float: left;
-	padding-left: 50px;
 	position: relative;
 	bottom: 10px;
 }
 
 .next-project-btn {
 	float: right;
-	padding-right: 50px;
 	position: relative;
 	bottom: 10px;
 }
