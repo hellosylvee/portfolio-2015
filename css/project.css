@@ -52,11 +52,8 @@ img {
 }
 
 .work-img {
-  /*opacity: .5;*/
   position: relative;
-  /*right: 300px;*/
 	width: 90%;
-	/*display: none;*/
 }
 
 .title-highlight {
